@@ -1,4 +1,4 @@
-# NMCodeExcercise-API
+# NMCodeExercise-API
 
 ## Getting started
 1. Create an account on BreweryDB and generate yourself an API key.  http://www.brewerydb.com/
